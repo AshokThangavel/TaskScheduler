@@ -35,7 +35,7 @@ A simple, native web-based task scheduler that helps you manage and monitor **In
    cd irisTest
    ```
 
-2. **Run the docker compose file**:
+3. **Run the docker compose file**:
 
    ```bash
    docker compose -f docker-compose.yml up -d --build
